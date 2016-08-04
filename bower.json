@@ -1,0 +1,29 @@
+{
+  "name": "image-grid",
+  "version": "0.0.1",
+  "description": "Image-Grid: a lightweight, responsive and mobile friendly image-grid",
+  "homepage": "https://github.com/fgrimme/image-grid",
+  "repository": "fgrimme/image-grid",
+  "license": "MIT",
+  "author": "Fabian Grimme <fbngrm@gmail.com>",
+  "main": "dist/grid.css",
+  "keywords": [
+    "css",
+    "framework",
+    "flexbox",
+    "responsive",
+    "mobile-friendly",
+    "front-end",
+    "less",
+    "image",
+    "grid",
+    "image-grid"
+  ],
+  "ignore": [
+    ".idea",
+    ".gitignore",
+    "bower.json",
+    "package.json",
+    "node_modules"
+  ]
+}
