@@ -1,0 +1,36 @@
+{
+  "name": "image-grid",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fgrimme/image-grid",
+  "author": "Fabian Grimme <fbngrm@gmail.com>",
+  "description": "Image-Grid: a lightweight, responsive and mobile friendly image-grid",
+  "main": "grid.less",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgrimme/image-grid"
+  },
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "framework",
+    "flexbox",
+    "responsive",
+    "mobile-friendly",
+    "front-end",
+    "less",
+    "image",
+    "grid",
+    "image-grid"
+  ],
+  "bugs": {
+    "url": "https://github.com/fgrimme/image-grid/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.6",
+    "gulp-csscomb": "^3.0.7",
+    "gulp-less": "^3.0.5",
+    "gulp-rename": "^1.2.2",
+    "less-plugin-autoprefix": "^1.5.1"
+  }
+}
