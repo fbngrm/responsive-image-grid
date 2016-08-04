@@ -7,8 +7,19 @@
 html {
   box-sizing: border-box;
   font-size: @html-font-size;
+  line-height: @html-line-height;
   -webkit-tap-highlight-color: transparent;
 }
 body {
+  font-size: @body-font-size;
   overflow-x: hidden;
 }
+
+// Disabled state
+&[disabled],
+.disabled {
+  cursor: default;
+  opacity: .75;
+  pointer-events: none;
+}
+
