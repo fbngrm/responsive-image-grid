@@ -20,7 +20,6 @@
     "image-grid"
   ],
   "ignore": [
-    ".idea",
     ".gitignore",
     "bower.json",
     "package.json",
