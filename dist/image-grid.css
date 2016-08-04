@@ -827,7 +827,6 @@ body {
   }
 }
 .empty {
-  background: #f8f8f8;
   border-radius: .3rem;
   padding: 4rem;
   text-align: center;
@@ -835,9 +834,6 @@ body {
 .empty .empty-title {
   font-size: 1.8rem;
   margin: 1.5rem 0 .5rem 0;
-}
-.empty .empty-meta {
-  color: #888;
 }
 .empty .empty-action {
   margin-top: 1.5rem;
@@ -868,6 +864,17 @@ body {
   float: none;
   margin-left: auto;
   margin-right: auto;
+}
+.vert-img {
+  margin-top: 1.2rem;
+}
+.vert-img-sq {
+  margin-top: 2rem;
+}
+.hid {
+  height: 10%;
+  max-height: 70%;
+  overflow: hidden;
 }
 .mt-10 {
   margin-top: 1rem;
@@ -1013,7 +1020,6 @@ body {
   border-radius: 50%;
 }
 .divider {
-  border-bottom: .1rem solid #efefef;
   display: block;
   margin: .5rem;
 }
@@ -1025,7 +1031,6 @@ body {
 }
 .loading::after {
   animation: loading 500ms infinite linear;
-  border: .2rem solid #5764c6;
   border-radius: .8rem;
   border-right-color: transparent;
   border-top-color: transparent;
