@@ -1,0 +1,19 @@
+// Core variables
+// Sizes
+@layout-gutter: 1rem;
+
+// Responsive breakpoints
+@size-xs: 480px;
+@size-sm: 600px;
+@size-md: 840px;
+@size-lg: 960px;
+@size-xl: 1280px;
+
+// Mixins
+.clearfix() {
+  &::after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+}
