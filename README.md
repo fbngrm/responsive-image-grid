@@ -16,11 +16,7 @@ Download the compiled and minified [CSS file](https://github.com/fgrimme/image-g
 
 **Install wit NPM**
 
-`$ npm install image-grid`
-
-**Install with Bower**
-
-`$ bower install spectre.css`
+`$ npm install responsive-image-grid`
 
 And include it in your website or Web app <head> part.
 
