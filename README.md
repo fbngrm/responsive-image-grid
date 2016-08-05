@@ -28,4 +28,4 @@ Images should have the correct ratio in landscape or portrait orientation. Have 
 
 
 # License
-[MIT]()
+[MIT](https://github.com/fgrimme/image-grid/blob/master/LICENSE)
