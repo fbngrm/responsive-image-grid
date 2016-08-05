@@ -26,5 +26,9 @@ And include it in your website or Web app <head> part.
 
 `<link rel="stylesheet" href="dist/image-grid.min.css" />`
 
+# Usage
+
+Images should have the correct ratio in landscape or portrait orientation. Have a look at the files in the [demo](https://fgrimme.github.io/demo/) directory to see haw to use the grids. 
+
 # License
 [MIT]()
