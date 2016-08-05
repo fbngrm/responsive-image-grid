@@ -1,6 +1,6 @@
 # image-grid
 
-*image-grid* is a mobile friendly responsive grid optimized for three different image formats. It is build with a subset of the awesome [spectre.css](https://github.com/picturepan2/spectre) and uses it's [responsive grid](http://picturepan2.github.io/spectre/#responsive) customized to work well with image ratios of **3/2**, **4/4** and **1/1**.  
+**image-grid** is a mobile friendly responsive grid optimized for three different image formats. It is build with a subset of the awesome [spectre.css](https://github.com/picturepan2/spectre) and uses it's [responsive grid](http://picturepan2.github.io/spectre/#responsive) customized to work well with image ratios of **2/3**, **3/4** and **1/1**.  
 
 # Demo
 
@@ -12,7 +12,7 @@
 
 **Install manually**
 
-Download the compiled and minified [CSS file]()
+Download the compiled and minified [CSS file](https://github.com/fgrimme/image-grid/blob/master/dist/image-grid.min.css)
 
 **Install wit NPM**
 
