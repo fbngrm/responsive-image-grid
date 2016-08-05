@@ -28,7 +28,7 @@ And include it in your website or Web app <head> part.
 
 # Usage
 
-Images should have the correct ratio in landscape or portrait orientation. Have a look at the files in the [demo](https://github.com/fgrimme/image-grid/blob/master/demo/) directory to see how to use the grids. 
+Images should have the correct ratio in landscape or portrait orientation. Have a look at the files in the [demo](https://github.com/fgrimme/image-grid/blob/master/demo/) directory to see how to use the grids. To adjust the padding change the `@image-gutter` variable in [variables.less](https://github.com/fgrimme/image-grid/blob/master/src/variables.less). Then compile the css with `gulp build`.
 
 
 # License
