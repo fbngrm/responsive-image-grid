@@ -20,6 +20,48 @@
 }
 
 // Responsive grid system
+.img-pad { 
+    padding: @image-gutter;
+}
+
+.digital
+ {
+    .img-pad-half { 
+        padding-top: (@image-gutter * 0.6);
+    }
+    .img-pad-third { 
+        padding-top: (@image-gutter * 0.5);
+    }
+    .img-pad-fourth { 
+        padding-top: (@image-gutter * 0.45);
+    }
+    .img-pad-sixth{ 
+        padding-top: (@image-gutter * 0.25);
+    }
+    .img-pad-eigth { 
+        padding-top: (@image-gutter * 0.125);
+    }
+}
+
+.analog,
+.sqare {
+    .img-pad-half { 
+        padding-top: (@image-gutter * 0.5);
+    }
+    .img-pad-third { 
+        padding-top: (@image-gutter * 0.333334);
+    }
+    .img-pad-fourth { 
+        padding-top: (@image-gutter * 0.25);
+    }
+    .img-pad-sixth{ 
+        padding-top: (@image-gutter * 0.1515151516);
+    }
+    .img-pad-eigth { 
+        padding-top: (@image-gutter * 0.125);
+    }
+}
+
 .columns {
   display: flex;
   margin-left: -@layout-gutter;
