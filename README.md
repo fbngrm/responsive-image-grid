@@ -4,9 +4,9 @@
 
 # Demo
 
-* [analog-format 2/3]()
-* [digital-format 3/4]()
-* [square-format 1/1]()
+* [analog-format 2/3](https://fgrimme.github.io/demo/analog.html)
+* [digital-format 3/4](https://fgrimme.github.io/demo/digital.html)
+* [square-format 1/1](https://fgrimme.github.io/demo/square.html)
 
 # Installation
 
