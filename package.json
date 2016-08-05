@@ -1,6 +1,6 @@
 {
   "name": "responsive-image-grid",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/fgrimme/image-grid",
   "author": "Fabian Grimme <fbngrm@gmail.com>",
   "description": "Image-Grid: a pure css lightweight, responsive and mobile friendly image-grid",
