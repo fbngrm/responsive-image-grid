@@ -18,7 +18,7 @@ Download the compiled and minified [CSS file](https://github.com/fgrimme/image-g
 
 `$ npm install responsive-image-grid`
 
-And include it in your website or Web app <head> part.
+And include it in your site.
 
 `<link rel="stylesheet" href="dist/image-grid.min.css" />`
 
